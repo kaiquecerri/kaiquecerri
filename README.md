@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Kaique (Cerri)
+# 👋 Olá, eu sou o Kaique Cerri
 
 💻 Desenvolvedor iniciante apaixonado por tecnologia, jogos e programação.
 🎮 Curto projetos simples, educativos e jogos estilo retrô.
