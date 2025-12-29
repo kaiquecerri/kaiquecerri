@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kaique (Cerri)
 
-<!--
-**kaiquecerri/kaiquecerri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor iniciante apaixonado por tecnologia, jogos e programação.
+🎮 Curto projetos simples, educativos e jogos estilo retrô.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+* 💡 Gosto de aprender fazendo projetos práticos
+* 🕹️ Desenvolvo jogos simples
+* 🌱 Interesses em educação, meio ambiente e tecnologia
+* 🧠 Técnico em Web Design (Informática para Internet - FIEB) em tecnologias como JavaScript, Node.js e Web
+
+---
+
+## 🛠️ Tecnologias
+
+* JavaScript
+* HTML5
+* CSS3
+* Node.js
+* Express
+* EJS
+* GameMaker
+
+---
+
+## 📌 Projetos em destaque
+
+* ⚽ **SportAgora** - Plataforma de eventos esportivos para entrega TCC
+* 🌱 **Barueri Eco Quest** – Jogo educativo sobre limpeza urbana
+* 📊 **Calculadora de Média** – Projeto simples em JavaScript puro
+
+
+---
+
+⭐ *Sempre aprendendo, testando e criando coisas novas.*
