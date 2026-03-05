@@ -1,38 +1,37 @@
-# 👋 Olá, eu sou o Kaique Cerri
+# 👋 Hi, I'm Kaique Cerri
 
-💻 Desenvolvedor iniciante apaixonado por tecnologia, jogos e programação.
-🎮 Curto projetos simples, educativos e jogos estilo retrô.
-
----
-
-## 🚀 Sobre mim
-
-* 💡 Gosto de aprender fazendo projetos práticos
-* 🕹️ Desenvolvo jogos simples
-* 🌱 Interesses em educação, meio ambiente e tecnologia
-* 🧠 Técnico em Web Design (Informática para Internet - FIEB) em tecnologias como JavaScript, Node.js e Web
+💻 Beginner developer passionate about technology, games, and programming.  
+🎮 I enjoy building simple, educational projects and retro-style games.
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 About me
 
-* JavaScript
-* HTML5
-* CSS3
-* Node.js
-* Express
-* EJS
-* GameMaker
+* 💡 I like learning by building practical projects  
+* 🕹️ I develop simple games to practice logic and programming  
+* 🌱 Interested in education, environment, and technology  
+* 🧠 Web Design Technician (Internet Computing - FIEB), working with technologies like JavaScript, Node.js, and web development
 
 ---
 
-## 📌 Projetos em destaque
+## 🛠️ Technologies
 
-* ⚽ **SportAgora** - Plataforma de eventos esportivos para entrega TCC
-* 🌱 **Barueri Eco Quest** – Jogo educativo sobre limpeza urbana
-* 📊 **Calculadora de Média** – Projeto simples em JavaScript puro
-
+* JavaScript  
+* HTML5  
+* CSS3  
+* Node.js  
+* Express  
+* EJS  
+* GameMaker  
 
 ---
 
-⭐ *Sempre aprendendo, testando e criando coisas novas.*
+## 📌 Featured Projects
+
+* ⚽ **SportAgora** – Sports event platform developed as a final course project  
+* 🌱 **Barueri Eco Quest** – Educational game about urban cleanliness  
+* 📊 **Average Calculator** – Simple project built with pure JavaScript  
+
+---
+
+⭐ *Always learning, experimenting, and building new things.*
