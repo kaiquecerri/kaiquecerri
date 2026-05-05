@@ -18,7 +18,7 @@
 
 ## 🛠️ Technologies
 
-```bash id="tech-stack"
+```bash
 💡 Languages: JavaScript | HTML | CSS | Java
 ⚙️ Backend: Node.js | Express
 🧩 Frontend: EJS | React (learning)
@@ -44,6 +44,10 @@ Logic and problem-solving practice using Java
 
 ⚛️ **React Tasks App**
 My first project using React
+
+📞 **Ticket Service System**
+Web application built with **React + Vite** for managing ticket-based customer service.
+Simulates generating tickets, calling them in order, and announcing via voice.
 
 ---
 
