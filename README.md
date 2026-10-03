@@ -19,9 +19,9 @@
 ## 🛠️ Technologies
 
 ```bash
-💡 Languages: JavaScript | HTML | CSS | Java
+💡 Languages: JavaScript | TypeScript | HTML | CSS | Java | Python
 ⚙️ Backend: Node.js | Express
-🧩 Frontend: EJS | React (learning)
+🧩 Frontend: React | EJS 
 🎮 Game Dev: GameMaker
 🛠️ Tools: Git | GitHub
 ```
@@ -30,32 +30,30 @@
 
 ## 📌 Featured Projects
 
-⚽ **SportAgora**
-Sports event platform developed as a final course project
-
-🌱 **Barueri Eco Quest**
-Educational game focused on urban cleanliness awareness
-
-📊 **Average Calculator**
-Simple project built with pure JavaScript
-
-📚 **Beecrowd Exercises**
-Logic and problem-solving practice using Java
-
-⚛️ **React Tasks App**
-My first project using React
+⚛️ **Cash Manager**
+Full-stack system built with React + Express for personal finance management and control.
 
 📞 **Ticket Service System**
-Web application built with **React + Vite** for managing ticket-based customer service.
-Simulates generating tickets, calling them in order, and announcing via voice.
+Web application built with React + Vite for managing ticket-based customer service.
+
+⚽ **SportAgora**
+Sports event platform developed as a final course project.
+
+🌱 **Barueri Eco Quest**
+Educational game focused on urban cleanliness awareness.
+
+📊 **Python Automation**
+Automation, data analysis, and AI applications built with Python.
+
+📚 **Beecrowd Exercises**
+Logic and problem-solving practice using Java.
 
 ---
 
 ## 📈 Currently
 
 * 🚀 Improving my full stack skills
-* ⚛️ Learning React and modern frontend
-* 🧠 Practicing logic with programming challenges
+* 🧠 Practicing logic
 * 💻 Building more real-world projects
 
 ---
@@ -64,12 +62,6 @@ Simulates generating tickets, calling them in order, and announcing via voice.
 
 * 💼 LinkedIn: https://br.linkedin.com/in/kaique-cerri-fialho
 * 🐙 GitHub: https://github.com/kaiquecerri
-
----
-
-## ⚡ Mindset
-
-> "Learning by doing — one project at a time."
 
 ---
 
